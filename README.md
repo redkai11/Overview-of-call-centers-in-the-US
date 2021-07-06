@@ -26,4 +26,4 @@ the call centers in California are overloaded with calls.
 # Credits:
 
 Data was obtained from https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Call+Center.csv.
-I referred to https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713 when making the hextile map.
+Credits to https://www.tableau.com/about/blog/2017/1/viz-whiz-hex-tile-maps-64713 and the author for hex-tile map. 
